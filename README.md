@@ -5,6 +5,8 @@
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=yurigabriel25&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurigabriel25&layout=compact&langs_count=7&theme=react" />
     
+    <img align="center" width="148" height="180" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47t22owd24rcck1icguj3q6cbo6l92wl712l0ozeaw&rid=giphy.gif&ct=g">
+    
 </div>
   <a href="https://www.instagram.com/yuri.gabriel25/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yurigabriel1995/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
