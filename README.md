@@ -1,8 +1,8 @@
 ## Olá DEVs, me chamo Yuri Gabriel e sejam bem-vindos ao meu GitHub.
 
 #### Um pouco sobre mim:<br>
-##### 🎓 - Atualmente estou cursando análise e desenvolvimento de sistemas e logo logo me torno um tecnólogo.<br>
-##### 💻 - Também to participando de um Bootcamp da DIO chamado Decola Tech 3a Edição, o primeiro de muitos!<br>
+#### 🎓 - Atualmente estou cursando análise e desenvolvimento de sistemas e logo logo me torno um tecnólogo.<br>
+#### 💻 - Também to participando de um Bootcamp da DIO chamado Decola Tech 3a Edição, o primeiro de muitos!<br>
 
  ## 
 <br>
