@@ -1,4 +1,4 @@
-## Olá devs, me chamo Yuri Gabriel e sejam bem-vindos ao meu GitHub.
+## Olá DEVs, me chamo Yuri Gabriel e sejam bem-vindos ao meu GitHub.
 
 #### Um pouco sobre mim:<br>
 🎓 - Atualmente estou cursando análise e desenvolvimento de sistemas e logo logo me torno um tecnólogo.<br>
