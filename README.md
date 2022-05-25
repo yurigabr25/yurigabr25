@@ -1,4 +1,4 @@
-## Olá! Sejam bem-vindos ao meu GitHub.
+## <div align="center">Olá! Sejam bem-vindos ao meu GitHub.</div>
 
 <div align="center">
   <a href="https://github.com/yurigabriel25">
