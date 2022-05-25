@@ -5,11 +5,11 @@
 💻 - Também to participando de um Bootcamp da DIO chamado Decola Tech 3a Edição, o primeiro de muitos!<br>
 
  ## 
-
+<br>
 <div align="center">
   <a href="https://github.com/yurigabriel25">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yurigabriel25&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- 
+   
  ##
  
  <div> 
