@@ -16,6 +16,15 @@
    
  ##
  
+ #### Estou aprendendo:
+<img src="https://img.icons8.com/color/40/000000/javascript--v2.png"/>
+<img src="https://img.icons8.com/color/40/000000/python--v1.png"/>
+<img src="https://img.icons8.com/color/40/000000/css3.png"/>
+<img src="https://img.icons8.com/color/40/000000/git.png"/>
+ 
+ ## 
+          
+ #### Onde vão me encontrar:
  <div> 
   <a href="https://www.instagram.com/yuri.gabriel25/" target="_blank"><img src="https://img.icons8.com/fluency/40/000000/instagram-new.png"/></a>
  	<a href="https://twitter.com/yuri_gabriel25" target="_blank"><img src="https://img.icons8.com/fluency/40/000000/twitter.png"/></a>
