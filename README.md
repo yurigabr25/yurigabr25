@@ -31,6 +31,5 @@
   <a href="https://www.instagram.com/yuri.gabriel25/" target="_blank"><img src="https://img.icons8.com/fluency/40/000000/instagram-new.png" target="_blank"/></a>
  	<a href="https://twitter.com/yuri_gabriel25" target="_blank"><img src="https://img.icons8.com/fluency/40/000000/twitter.png" target="_blank"/></a>
   <a href="https://www.linkedin.com/in/yuri-gabriel-8a99a8232/" target="_blank"><img src="https://img.icons8.com/color/40/000000/linkedin-circled--v5.png" target="_blank"/></a>
-  <a href="https://t.me/yurigabriel25" target="_blank"><img src="https://img.icons8.com/color/40/000000/telegram-app--v4.png" target="_blank"/>
   <a href = "mailto:yurigabriel1995@outlook.com"><img src="https://img.icons8.com/color/40/000000/ms-outlook.png" target="_blank"/></a>
 </div>
