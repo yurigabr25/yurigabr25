@@ -1,4 +1,6 @@
-## Olá DEVs, me chamo Yuri Gabriel e sejam bem-vindos ao meu GitHub.
+<p align="lift">
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Sejam+bem-vindos+ao+meu+do+GitHub!;Welcome+to+my+GitHub+profile!" /></a>
+</p> 
 
 #### <b>Um pouco sobre mim:</b><br>
 #### 🎓 - <i>Atualmente estou cursando análise e desenvolvimento de sistemas e logo logo me torno um tecnólogo.<br>
