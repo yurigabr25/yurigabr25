@@ -27,7 +27,7 @@
  
  ## 
           
- #### Onde vão me encontrar:
+ #### Minhas redes sociais:
  <div> 
   <a href="https://www.instagram.com/yuri.gabriel25/" target="_blank"><img src="https://img.icons8.com/fluency/40/000000/instagram-new.png" target="_blank"/></a>
  	<a href="https://twitter.com/yuri_gabriel25" target="_blank"><img src="https://img.icons8.com/fluency/40/000000/twitter.png" target="_blank"/></a>
