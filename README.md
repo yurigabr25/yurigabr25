@@ -21,10 +21,8 @@
  
  #### Estou aprendendo:
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/40/000000/javascript--v2.png" target="_blank"/>
-<a href="https://docs.python.org/3/" target="_blank"><img src="https://img.icons8.com/color/40/000000/python--v1.png" target="_blank"/>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img src="https://img.icons8.com/color/40/000000/css3.png" target="_blank"/>
 <a href="https://git-scm.com/docs/git/pt_BR" target="_blank"><img src="https://img.icons8.com/color/40/000000/git.png" target="_blank"/>
-<a href="https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open"><img src="https://img.icons8.com/fluency-systems-regular/40/000000/markdown.png"/>
  
  ## 
           
