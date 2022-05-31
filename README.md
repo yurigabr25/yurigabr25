@@ -25,13 +25,11 @@
 <a href="https://git-scm.com/docs/git/pt_BR" target="_blank"><img src="https://img.icons8.com/color/40/000000/git.png" target="_blank"/>
  
  ## 
-          
+       
+ #### Minhas redes sociais:
  <div> 
-    #### Minhas redes sociais:
   <a href="https://www.instagram.com/yuri.gabriel25/" target="_blank"><img src="https://img.icons8.com/fluency/40/000000/instagram-new.png" target="_blank"/></a>
  	<a href="https://twitter.com/yuri_gabriel25" target="_blank"><img src="https://img.icons8.com/fluency/40/000000/twitter.png" target="_blank"/></a>
   <a href="https://www.linkedin.com/in/yuri-gabriel-8a99a8232/" target="_blank"><img src="https://img.icons8.com/color/40/000000/linkedin-circled--v5.png" target="_blank"/></a>
 </div>
-
-  <img src="https://i.ibb.co/WVs2zhH/758X.gif"/>
   
