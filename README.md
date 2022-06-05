@@ -1,4 +1,4 @@
-## Hello, I'm Yuri Gabriel and welcome to my profile!
+Welcome to my profile!
 
 #### <b>About me:</b><br>
 #### 🎓 - <i>Graduating in Systems Analysis and Development.<br>
