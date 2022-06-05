@@ -1,8 +1,8 @@
-## <i>Welcome to my profile!</i>
+<h1 align="center">Hi, I'm Yuri Gabriel<i> </h1>
 
 #### <b>About me:</b><br>
-#### 🎓 - <i>Graduating in Systems Analysis and Development.<br>
-#### 📫 - My email 👉 yurigabriel1995@outlook.com</i>
+#### 🎓 - Graduating in Systems Analysis and Development.<br>
+#### 📫 - My email 👉 yurigabriel1995@outlook.com
 
  ##
  
@@ -26,5 +26,5 @@
  <div> 
  	<a href="https://twitter.com/yuri_gabriel25" target="_blank"><img src="https://img.icons8.com/fluency/40/000000/twitter.png" target="_blank"/></a>
   <a href="https://www.linkedin.com/in/yuri-gabriel-8a99a8232/" target="_blank"><img src="https://img.icons8.com/color/40/000000/linkedin-circled--v5.png" target="_blank"/></a>
-</div>
+ </div></i>
   
