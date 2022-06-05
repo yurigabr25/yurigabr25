@@ -1,4 +1,4 @@
-Welcome to my profile!
+## <i>Welcome to my profile!</i>
 
 #### <b>About me:</b><br>
 #### 🎓 - <i>Graduating in Systems Analysis and Development.<br>
