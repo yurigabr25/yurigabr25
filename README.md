@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Yuri Gabriel<i> </h1>
+<h1 align="center"><i>Hey, I'm Yuri Gabriel</h1>
 
 #### <b>About me:</b><br>
 #### 🎓 - Graduating in Systems Analysis and Development.<br>
 #### 📫 - My email 👉 yurigabriel1995@outlook.com
 
  ##
- 
+
 <br>
 
 <div align="center">
@@ -18,6 +18,7 @@
  
  #### I'm studying:
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/40/000000/javascript--v2.png" target="_blank"/>
+<a href="https://www.python.org/doc/versions/" target="_blank"><img src="https://img.icons8.com/color/40/undefined/python--v1.png"/>
 <a href="https://git-scm.com/docs/git/pt_BR" target="_blank"><img src="https://img.icons8.com/color/40/000000/git.png" target="_blank"/>
  
  ## 
