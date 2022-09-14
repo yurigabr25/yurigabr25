@@ -1,8 +1,9 @@
-## Oi, eu sou Yuri Gabriel 🖖
+## Oi, eu sou Yuri Gabriel
 
 #### Sobre mim:
 <p>
  💻 Cursando Análise e Desenvolvimento de Sistemas
+ - Estudando Python, libras e inglês
 </p>
 
 ## 
@@ -18,7 +19,7 @@
   
 ## 
  
-#### Você pode me achar aqui 👇
+#### Você pode me achar aqui:
 <p>
  <a href="https://www.instagram.com/yuri.gabriel25/" target="_blank"/><img src="https://img.icons8.com/fluency/40/undefined/instagram-new.png"/>
  <a href="https://twitter.com/yuri_gabriel25" target="_blank"><img src="https://img.icons8.com/fluency/40/000000/twitter.png" target="_blank"/></a>
