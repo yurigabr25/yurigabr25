@@ -3,7 +3,6 @@
 #### Sobre mim:
 <p>
  💻 Cursando Análise e Desenvolvimento de Sistemas <br>
- - Estudando Python, libras e inglês
 </p>
 
 ## 
