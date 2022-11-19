@@ -1,13 +1,13 @@
-## Oi, eu sou Yuri Gabriel
+## Hello, Studying Systems Analysis and Development.
 
-#### Sobre mim:
+#### About me:
 <p>
- 💻 Cursando Análise e Desenvolvimento de Sistemas <br>
+ 💻 Studying Systems Analysis and Development. <br>
 </p>
 
 ## 
 
-#### Linguagens e ferramentas:
+#### Technologies and tools:
 <p>
  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/40/000000/javascript--v2.png" target="_blank"/></a>
  <a href="https://www.python.org/doc/versions/" target="_blank"><img src="https://img.icons8.com/color/40/undefined/python--v1.png"/></a>
@@ -19,7 +19,7 @@
   
 ## 
  
-#### Você pode me achar aqui:
+#### You find me here too:
 <p>
  <a href="https://www.instagram.com/yurigabr25/" target="_blank"/><img src="https://img.icons8.com/fluency/40/undefined/instagram-new.png"/>
  <a href="https://twitter.com/yurigabr25" target="_blank"><img src="https://img.icons8.com/fluency/40/000000/twitter.png" target="_blank"/></a>
