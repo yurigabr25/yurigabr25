@@ -1,4 +1,4 @@
-## Hello, Studying Systems Analysis and Development.
+### Hello, I'm Yuri Gabriel and this is my profile on GitHub!
 
 #### About me:
 <p>
