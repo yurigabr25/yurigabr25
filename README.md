@@ -12,9 +12,9 @@
  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/40/000000/javascript--v2.png" target="_blank"/></a>
  <a href="https://www.python.org/doc/versions/" target="_blank"><img src="https://img.icons8.com/color/40/undefined/python--v1.png"/></a>
  <a href="https://git-scm.com/docs/git/pt_BR" target="_blank"><img src="https://img.icons8.com/color/40/000000/git.png" target="_blank"/></a>
- <a href="https://www.adobe.com/pt/products/photoshop.html" target="_blank"><img src="https://img.icons8.com/fluency/48/undefined/adobe-photoshop.png"/></a>
- <a href="https://www.blackmagicdesign.com/br/products/davinciresolve" target="_blank"><img src="https://img.icons8.com/color/50/000000/davinci-resolve.png"/></a>
+ <a href="https://www.adobe.com/pt/products/photoshop.html" target="_blank"><img src="https://img.icons8.com/color/48/null/adobe-photoshop--v1.png"/></a>
  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/color/48/null/mysql-logo.png"/></a>
+ <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.icons8.com/color/48/null/pandas.png"/></a>
 </p>
   
 ## 
