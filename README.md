@@ -25,6 +25,6 @@
  <a href="https://twitter.com/yurigabr25" target="_blank"><img src="https://img.icons8.com/fluency/40/000000/twitter.png" target="_blank"/></a>
  <a href="https://www.linkedin.com/in/yurigabr25/" target="_blank"><img src="https://img.icons8.com/color/40/000000/linkedin-circled--v5.png"/></a>
  <a href="https://www.kooapp.com/profile/yurigabr25" target="_blank"><img src="https://img.icons8.com/color/48/null/koo.png"/></a>
- <a href="https://br.pinterest.com/yurigabr25/"><img src="https://img.icons8.com/ios-glyphs/40/000000/pinterest.png"/></a>
+ <a href="https://br.pinterest.com/yurigabr25/"><img src="https://img.icons8.com/color/48/null/pinterest--v1.png"/></a>
  <a href="mailto:yurigabriel1995@outlook.com?"><img src="https://img.icons8.com/fluency/48/null/email-open.png"/></a>
 </p>
