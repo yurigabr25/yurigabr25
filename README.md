@@ -1,30 +1,15 @@
-### Hello, I'm Yuri Gabriel and this is my profile on GitHub!
+# 💫 About Me:
+<br><br><br>
 
-#### About me:
-<p>
- 💻 Studying Systems Analysis and Development. <br>
-</p>
 
-## 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yurigabr25) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yurigabr25) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/yurigabr25) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yurigabr25) 
 
-#### Technologies and tools:
-<p>
- <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/40/000000/javascript--v2.png" target="_blank"/></a>
- <a href="https://www.python.org/doc/versions/" target="_blank"><img src="https://img.icons8.com/color/40/undefined/python--v1.png"/></a>
- <a href="https://git-scm.com/docs/git/pt_BR" target="_blank"><img src="https://img.icons8.com/color/40/000000/git.png" target="_blank"/></a>
- <a href="https://www.adobe.com/pt/products/photoshop.html" target="_blank"><img src="https://img.icons8.com/color/48/null/adobe-photoshop--v1.png"/></a>
- <a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/color/48/null/mysql-logo.png"/></a>
- <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.icons8.com/color/48/null/pandas.png"/></a>
-</p>
-  
-## 
- 
-#### You find me here too:
-<p>
- <a href="https://www.instagram.com/yurigabr25/" target="_blank"/><img src="https://img.icons8.com/fluency/40/undefined/instagram-new.png"/>
- <a href="https://twitter.com/yurigabr25" target="_blank"><img src="https://img.icons8.com/fluency/40/000000/twitter.png" target="_blank"/></a>
- <a href="https://www.linkedin.com/in/yurigabr25/" target="_blank"><img src="https://img.icons8.com/color/40/000000/linkedin-circled--v5.png"/></a>
- <a href="https://www.kooapp.com/profile/yurigabr25" target="_blank"><img src="https://img.icons8.com/color/48/null/koo.png"/></a>
- <a href="https://br.pinterest.com/yurigabr25/"><img src="https://img.icons8.com/color/48/null/pinterest--v1.png"/></a>
- <a href="mailto:yurigabriel1995@outlook.com?"><img src="https://img.icons8.com/fluency/48/null/email-open.png"/></a>
-</p>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yurigabr25&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yurigabr25&theme=blue-green&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yurigabr25&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
