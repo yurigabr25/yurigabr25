@@ -1,7 +1,7 @@
 # 💫 About Me:
 Estudante de análise e desenvolvimento de sistemas, com foco em desenvolvimento back-end. Atualmente estou cursando o terceiro semestre de faculdade.
 
-No momento, sou candidato a uma bolsa de estudos do programa ONE - Oracle Next Education.
+Candidato a uma bolsa de estudos do programa ONE - Oracle Next Education - 4º turma.
 
 Experiência em trabalho autônomo na edição de vídeos curtos com o programa Adobe Premiere.
 
