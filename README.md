@@ -1,16 +1,5 @@
 # 💫 About Me:
-Estudante de análise e desenvolvimento de sistemas, com foco em desenvolvimento back-end. Atualmente estou cursando o terceiro semestre de faculdade.
 
-Candidato a uma bolsa de estudos do programa ONE - Oracle Next Education - 4º turma.
-
-Experiência em trabalho autônomo na edição de vídeos curtos com o programa Adobe Premiere.
-
-Formado como técnico em Logística com experiência como Estoquista na área.
-
-Experiência em trabalho autônomo na manutenção de computadores.
-
-Profissional de mecânica de veículos a diesel, com experiência na manutenção de veículos articulados (BRT's), ônibus e micro-ônibus.
-<br>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yurigabr25) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yurigabr25) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/yurigabr25) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yurigabr25) 
 
