@@ -1,4 +1,5 @@
 # 💫 About Me:
+I am a student of Systems Analysis and Development at Anhanguera College and passionate about technology. Currently, I am expanding my knowledge in Java and Spring as a back-end through the Oracle ONE program in partnership with Alura. I have experience in assembling and maintaining computers, including hardware and Windows, macOS, and Linux operating systems. Additionally, I am a hackintosh enthusiast and passionate about databases and computer networks. I am always seeking new challenges and opportunities to improve my skills and grow professionally.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yurigabr25) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yurigabr25) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/yurigabr25) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yurigabr25) 
