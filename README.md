@@ -1,11 +1,30 @@
-# 💫 About Me:
-I am a student of Systems Analysis and Development at Anhanguera College and passionate about technology. Currently, I am expanding my knowledge in Java and Spring as a back-end through the Oracle ONE program in partnership with Alura. I have experience in assembling and maintaining computers, including hardware and Windows, macOS, and Linux operating systems. Additionally, I am a hackintosh enthusiast and passionate about databases and computer networks. I am always seeking new challenges and opportunities to improve my skills and grow professionally.
+# 🖖 Sobre mim:
+🎓 Graduação em Análise e Desenvolvimento de Sistemas </br>
+📚 Estudando desenvolvimento Back-End na Oracle ONE, acesse meu perfil </br>
+🍎 Entrando no mundo dos hackintosh </br>
+🖥️ Trabalho com montagem e manutenção de computadores </br>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yurigabr25) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yurigabr25) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/yurigabr25) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yurigabr25) 
+# 📫 Você pode me encontrar:
+<a href="https://www.linkedin.com/in/yurigabr25/" alt="logo do linkedin"><img src="https://img.icons8.com/color/48/null/linkedin-circled--v1.png"/></a>
+<a href="mailto:cortaesai@gmail.com%20%22yurigabriel1995@outlook.com%22" alt="logo do twitter"><img src="https://img.icons8.com/color/48/null/apple-mail.png"/></a>
+<a href="https://twitter.com/yurigabr25" alt="logo do twitter"><img src="https://img.icons8.com/fluency/48/null/twitter.png"/></a>
+</br>
+Você também pode acessar meu currículo online, <a href="https://www.canva.com/design/DAFMOgfVT5E/l6Taoxe2QrXPyU5fWP9jag/view?utm_content=DAFMOgfVT5E&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">clicando aqui</a>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white)
+# 💻 Linguagens e tecnologias:
+#### IDE preferida: </br>
+<a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/fluency/48/null/visual-studio-code-2019.png"/></a>
+
+#### O que estou estudando: </br>
+<img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png"/>  <img src="https://img.icons8.com/color/48/null/spring-logo.png"/>  <img src="https://img.icons8.com/fluency/48/null/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/null/python--v1.png"/> <img src="https://img.icons8.com/color/48/null/git.png"/> 
+
+#### Outras tecnologias que já usei:
+<img src="https://img.icons8.com/fluency/48/null/javascript.png"/> <img src="https://img.icons8.com/color/48/null/css3.png"/> <img src="https://img.icons8.com/color/48/null/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/null/pandas.png"/> <img src="https://img.icons8.com/color/48/null/adobe-premiere-pro--v1.png"/> <img src="https://img.icons8.com/color/48/null/davinci-resolve.png"/> <img src="https://img.icons8.com/color/48/null/adobe-photoshop--v1.png"/> <img src="https://img.icons8.com/color/48/null/intellij-idea.png"/>
+
+# 🔤 Idiomas:
+<img width="300px" src="https://media.tenor.com/D-d4dYm0nQEAAAAC/english-motherfucker-do-you-speak-it-english-mofo.gif"/> 
+I'm learning english and french with films and in apps how Duolingo
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yurigabr25&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
