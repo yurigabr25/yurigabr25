@@ -22,7 +22,7 @@ Você também pode acessar meu currículo online, <a href="https://www.canva.com
 <img src="https://img.icons8.com/fluency/48/null/javascript.png"/> <img src="https://img.icons8.com/color/48/null/css3.png"/> <img src="https://img.icons8.com/color/48/null/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/null/pandas.png"/> <img src="https://img.icons8.com/color/48/null/adobe-premiere-pro--v1.png"/> <img src="https://img.icons8.com/color/48/null/davinci-resolve.png"/> <img src="https://img.icons8.com/color/48/null/adobe-photoshop--v1.png"/> <img src="https://img.icons8.com/color/48/null/intellij-idea.png"/>
 
 # 🔤 Idiomas:
-<img width="300px" src="https://media.tenor.com/D-d4dYm0nQEAAAAC/english-motherfucker-do-you-speak-it-english-mofo.gif"/> 
+<img width="300px" src="https://media.tenor.com/RUJokzj0C2gAAAAC/speak-english-pulp-fiction.gif"/>
 I'm learning english and french with films and in apps how Duolingo
 
 # 📊 GitHub Stats:
