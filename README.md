@@ -1,8 +1,6 @@
 # 🖖 Sobre mim:
 🎓 Graduação em Análise e Desenvolvimento de Sistemas </br>
 📚 Estudando desenvolvimento Back-End na Oracle ONE, <a href="https://cursos.alura.com.br/emprega-one/profile/yurigabr25">acesse meu perfil aqui</a> </br>
-🍎 Entrando no mundo dos hackintosh </br>
-🖥️ Trabalho com montagem e manutenção de computadores </br>
 
 # 📫 Você pode me encontrar:
 <a href="https://www.linkedin.com/in/yurigabr25/" alt="logo do linkedin"><img src="https://img.icons8.com/color/48/null/linkedin-circled--v1.png"/></a>
