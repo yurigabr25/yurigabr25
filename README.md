@@ -11,17 +11,13 @@ Você também pode acessar meu currículo online, <a href="https://www.canva.com
 
 # 💻 Linguagens e tecnologias:
 #### IDE preferida: </br>
-<a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/fluency/48/null/visual-studio-code-2019.png"/></a>
+<a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/fluency/48/null/visual-studio-code-2019.png"/></a> <a href="https://www.jetbrains.com/pt-br/idea/"><img src="https://img.icons8.com/color/48/null/intellij-idea.png"/></a>
 
 #### O que estou estudando: </br>
-<img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png"/>  <img src="https://img.icons8.com/color/48/null/spring-logo.png"/>  <img src="https://img.icons8.com/fluency/48/null/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/null/python--v1.png"/> <img src="https://img.icons8.com/color/48/null/git.png"/> 
+<a href="https://www.oracle.com/br/java/technologies/downloads/"><img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png"/></a>  <a href="https://start.spring.io/"><img src="https://img.icons8.com/color/48/null/spring-logo.png"/></a>  <a href="https://www.mysql.com/"><img src="https://img.icons8.com/fluency/48/null/mysql-logo.png"/></a> <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/null/git.png"/></a>
 
-#### Outras tecnologias que já usei:
-<img src="https://img.icons8.com/fluency/48/null/javascript.png"/> <img src="https://img.icons8.com/color/48/null/css3.png"/> <img src="https://img.icons8.com/color/48/null/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/null/pandas.png"/> <img src="https://img.icons8.com/color/48/null/adobe-premiere-pro--v1.png"/> <img src="https://img.icons8.com/color/48/null/davinci-resolve.png"/> <img src="https://img.icons8.com/color/48/null/adobe-photoshop--v1.png"/> <img src="https://img.icons8.com/color/48/null/intellij-idea.png"/>
-
-# 🔤 Idiomas:
-<img width="300px" src="https://media.tenor.com/RUJokzj0C2gAAAAC/speak-english-pulp-fiction.gif"/>
-I'm learning english and french with films and in apps how Duolingo
+#### Outras tecnologias e ferramentas que já usei:
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://img.icons8.com/fluency/48/null/javascript.png"/></a>                                                                                       <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="https://img.icons8.com/color/48/null/css3.png"/></a>                                                                                                       <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://img.icons8.com/color/48/null/html-5--v1.png"/></a>                                                                                               <a href="https://pandas.pydata.org/"><img src="https://img.icons8.com/color/48/null/pandas.png"/></a>                                                                                                                           <a href="https://www.adobe.com/br/products/premiere.html"><img src="https://img.icons8.com/color/48/null/adobe-premiere-pro--v1.png"/></a>                                                                                     <a href="https://www.blackmagicdesign.com/br/products/davinciresolve"><img src="https://img.icons8.com/color/48/null/davinci-resolve.png"/></a>                                                                               <a href="https://www.adobe.com/br/products/premiere.html"><img src="https://img.icons8.com/color/48/null/adobe-photoshop--v1.png"/></a>  <a href="https://www.python.org/"><img src="https://img.icons8.com/color/48/null/python--v1.png"/></a>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yurigabr25&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
