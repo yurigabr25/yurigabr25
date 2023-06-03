@@ -10,7 +10,7 @@
 Você também pode acessar meu currículo online, <a href="https://www.canva.com/design/DAFMOgfVT5E/l6Taoxe2QrXPyU5fWP9jag/view?utm_content=DAFMOgfVT5E&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">clicando aqui</a>
 
 # 💻 Linguagens e tecnologias:
-#### IDE preferida: </br>
+#### IDEs preferida: </br>
 <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/fluency/48/null/visual-studio-code-2019.png"/></a> <a href="https://www.jetbrains.com/pt-br/idea/"><img src="https://img.icons8.com/color/48/null/intellij-idea.png"/></a>
 
 #### O que estou estudando: </br>
