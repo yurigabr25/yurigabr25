@@ -1,6 +1,6 @@
 # Sobre mim
 
-🎓 Graduação em Análise e Desenvolvimento de Sistemas
+🎓 Graduando em Análise e Desenvolvimento de Sistemas
 
 📚 Alumni no Oracle ONE Next Education
 
