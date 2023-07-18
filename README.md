@@ -17,6 +17,7 @@ O que estou estudando:
 ![Spring Boot](https://img.icons8.com/color/48/null/spring-logo.png)
 ![MySQL](https://img.icons8.com/fluency/48/null/mysql-logo.png)
 ![Git](https://img.icons8.com/color/48/null/git.png)
+![Docker](https://img.icons8.com/fluency/48/docker.png)
 
 # Estatisticas
 
