@@ -28,3 +28,5 @@ O que estou estudando:
 ## Contato
 
 [![Linkedin](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/yurigabr25/)
+[![Instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://www.instagram.com/yurigabr25/)
+[![Twitter](https://img.icons8.com/fluency/48/twitter.png)](https://twitter.com/yurigabr25)
