@@ -27,4 +27,3 @@ O que estou estudando:
 ## Contato
 
 [![Linkedin](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/yurigabr25/)
-[![Email](https://img.icons8.com/fluency/48/new-post.png)](mailto:cortaesai@gmail.com%20%22yurigabriel1995@outlook.com%22)
