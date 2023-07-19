@@ -8,20 +8,20 @@
 
 IDEs preferidas:
 
-![Intellij](https://img.icons8.com/color/48/intellij-idea.png)
-![VisualCode](https://img.icons8.com/fluency/48/null/visual-studio-code-2019.png)
+[![Intellij](https://img.icons8.com/color/48/intellij-idea.png)](https://www.jetbrains.com/pt-br/idea/)
+[![VisualCode](https://img.icons8.com/fluency/48/null/visual-studio-code-2019.png)](https://code.visualstudio.com/download)
 
 O que estou estudando:
 
-![Java](https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png)
-![Spring Boot](https://img.icons8.com/color/48/null/spring-logo.png)
-![MySQL](https://img.icons8.com/fluency/48/null/mysql-logo.png)
-![Git](https://img.icons8.com/color/48/null/git.png)
-![Docker](https://img.icons8.com/fluency/48/docker.png)
+[![Java](https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png)](https://www.oracle.com/br/java/technologies/downloads/)
+[![Spring Boot](https://img.icons8.com/color/48/null/spring-logo.png)](https://spring.io/projects/spring-boot)
+[![MySQL](https://img.icons8.com/fluency/48/null/mysql-logo.png)](https://www.mysql.com/)
+[![Git](https://img.icons8.com/color/48/null/git.png)](https://git-scm.com/)
+[![Docker](https://img.icons8.com/fluency/48/docker.png)](https://www.docker.com/)
 
 # Estatisticas
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yurigabr25&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=yurigabr25&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/yurigabr25)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
