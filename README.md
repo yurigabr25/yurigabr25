@@ -5,12 +5,6 @@
 📚 Alumni no Oracle ONE Next Education
 
 # Tecnologias
-
-IDEs preferidas:
-
-[![Intellij](https://img.icons8.com/color/48/intellij-idea.png)](https://www.jetbrains.com/pt-br/idea/)
-[![VisualCode](https://img.icons8.com/fluency/48/null/visual-studio-code-2019.png)](https://code.visualstudio.com/download)
-
 O que estou estudando:
 
 [![Java](https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png)](https://www.oracle.com/br/java/technologies/downloads/)
